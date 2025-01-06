@@ -1,4 +1,3 @@
-Here's the complete **README.md** file for your project:
 
 ```markdown
 # 3D Product Configurator
